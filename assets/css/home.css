@@ -1,0 +1,53 @@
+/* home.css */
+
+/* Importing global styles */
+@import url('app.css');
+
+/* Specific styles for the home page */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#home-container h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+button {
+    font-size: 1.2rem;
+}
+
+.start-btn, .highscore-btn {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    width: 200px;
+    transition: transform 0.3s;
+}
+
+.start-btn:hover, .highscore-btn:hover {
+    transform: scale(1.1);
+}
+
+/* Home page specific styles */
+#home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#start-button {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    padding: 15px 30px;
+    font-size: 1.2em;
+    width: 250px;
+    text-decoration: none;
+}

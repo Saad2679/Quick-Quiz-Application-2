@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Game</title>
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/game.css">
+</head>
+<body>
+    <div class="container">
+        <div id="loader" class="hidden"></div>
+        <div id="game" class="justify-center hidden">
+            <div id="hud">
+                <div id="hud-item">
+                    <p id="progressText">Question</p>
+                </div>
+                <div id="hud-item">
+                    <p id="score">Score</p>
+                </div>
+            </div>
+            <h2 id="question">What is the capital of France?</h2>
+            <div class="choices">
+                <button class="choice">A. Choice 1</button>
+                <button class="choice">B. Choice 2</button>
+                <button class="choice">C. Choice 3</button>
+                <button class="choice">D. Choice 4</button><br><br>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/game.js"></script>
+</body>
+</html>

@@ -1,0 +1,3550 @@
+[
+    {
+        "question": "What is the largest continent by land area?",
+        "choice1": "Africa",
+        "choice2": "Asia",
+        "choice3": "Europe",
+        "choice4": "North America",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of France?",
+        "choice1": "Berlin",
+        "choice2": "Madrid",
+        "choice3": "Paris",
+        "choice4": "Rome",
+        "answer": 3
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "choice1": "Earth",
+        "choice2": "Mars",
+        "choice3": "Mercury",
+        "choice4": "Venus",
+        "answer": 3
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "choice1": "Osmium",
+        "choice2": "Oxygen",
+        "choice3": "Oganesson",
+        "choice4": "Olivine",
+        "answer": 2
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "choice1": "Tomato",
+        "choice2": "Avocado",
+        "choice3": "Pepper",
+        "choice4": "Onion",
+        "answer": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choice1": "Jupiter",
+        "choice2": "Saturn",
+        "choice3": "Mars",
+        "choice4": "Uranus",
+        "answer": 3
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice1": "Gold",
+        "choice2": "Diamond",
+        "choice3": "Platinum",
+        "choice4": "Iron",
+        "answer": 2
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "choice1": "Harper Lee",
+        "choice2": "Mark Twain",
+        "choice3": "J.K. Rowling",
+        "choice4": "Ernest Hemingway",
+        "answer": 1
+    },
+    {
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "choice1": "90°C",
+        "choice2": "100°C",
+        "choice3": "110°C",
+        "choice4": "120°C",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "choice1": "Elephant",
+        "choice2": "Lion",
+        "choice3": "Tiger",
+        "choice4": "Bear",
+        "answer": 2
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msg('Hello World')",
+        "choice2": "alertBox('Hello World')",
+        "choice3": "msgBox('Hello World')",
+        "choice4": "alert('Hello World')",
+        "answer": 4
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "choice1": "Microsoft",
+        "choice2": "Netscape",
+        "choice3": "Sun Microsystems",
+        "choice4": "Oracle",
+        "answer": 2
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "choice1": "function myFunction()",
+        "choice2": "function:myFunction()",
+        "choice3": "function = myFunction()",
+        "choice4": "function => myFunction()",
+        "answer": 1
+    },
+    {
+        "question": "How do you call a function named 'myFunction'?",
+        "choice1": "call myFunction()",
+        "choice2": "call function myFunction()",
+        "choice3": "myFunction()",
+        "choice4": "execute myFunction()",
+        "answer": 3
+    },
+    {
+        "question": "How do you write a conditional statement for executing some code if 'i' is NOT equal to 5?",
+        "choice1": "if (i <> 5)",
+        "choice2": "if (i != 5)",
+        "choice3": "if i <> 5",
+        "choice4": "if i =! 5 then",
+        "answer": 2
+    },
+    {
+        "question": "How do you add a comment in JavaScript?",
+        "choice1": "// This is a comment",
+        "choice2": "/* This is a comment */",
+        "choice3": "<!-- This is a comment -->",
+        "choice4": "# This is a comment",
+        "answer": 1
+    },
+    {
+        "question": "How can you detect the client's browser name?",
+        "choice1": "navigator.appName",
+        "choice2": "browser.name",
+        "choice3": "client.navName",
+        "choice4": "window.navigator",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to write a JavaScript array?",
+        "choice1": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+        "choice2": "var colors = ['red', 'green', 'blue']",
+        "choice3": "var colors = 'red', 'green', 'blue'",
+        "choice4": "var colors = (1:'red', 2:'green', 3:'blue')",
+        "answer": 2
+    },
+    {
+        "question": "How do you round the number 7.25, to the nearest integer?",
+        "choice1": "Math.round(7.25)",
+        "choice2": "Math.rnd(7.25)",
+        "choice3": "rnd(7.25)",
+        "choice4": "round(7.25)",
+        "answer": 1
+    },
+    {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "choice1": "onchange",
+        "choice2": "onmouseclick",
+        "choice3": "onmouseover",
+        "choice4": "onclick",
+        "answer": 4
+    },
+    {
+        "question": "How do you declare a JavaScript variable?",
+        "choice1": "v carName;",
+        "choice2": "variable carName;",
+        "choice3": "var carName;",
+        "choice4": "carName = var;",
+        "answer": 3
+    },
+    {
+        "question": "Which operator is used to assign a value to a variable?",
+        "choice1": "-",
+        "choice2": "x",
+        "choice3": "=",
+        "choice4": "*",
+        "answer": 3
+    },
+    {
+        "question": "What will the following code return: Boolean(10 > 9)?",
+        "choice1": "true",
+        "choice2": "NaN",
+        "choice3": "false",
+        "choice4": "undefined",
+        "answer": 1
+    },
+    {
+        "question": "Is JavaScript case-sensitive?",
+        "choice1": "No",
+        "choice2": "Yes",
+        "choice3": "Only when in strict mode",
+        "choice4": "Only in ES6",
+        "answer": 2
+    },
+    {
+        "question": "How do you create an object in JavaScript?",
+        "choice1": "var obj = {};",
+        "choice2": "var obj = new Object();",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "None of the above",
+        "answer": 3
+    },
+    {
+        "question": "How can you create a copy of an array?",
+        "choice1": "var copy = array;",
+        "choice2": "var copy = array.slice();",
+        "choice3": "var copy = [...array];",
+        "choice4": "Both 2 and 3 are correct",
+        "answer": 4
+    },
+    {
+        "question": "What does JSON stand for?",
+        "choice1": "JavaScript Object Notation",
+        "choice2": "JavaScript Online",
+        "choice3": "Java Standard Output Network",
+        "choice4": "JavaScript Output Name",
+        "answer": 1
+    },
+    {
+        "question": "Which method is used to parse a string to an integer?",        
+        "choice1": "Number.parseInt()",
+        "choice2": "parseInt()",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "parseNumber()",
+        "answer": 3
+    },
+        {
+            "question": "What is the capital of France?",
+            "choice1": "Berlin",
+            "choice2": "Madrid",
+            "choice3": "Paris",
+            "choice4": "Rome",
+            "answer": 3
+        },
+        {
+            "question": "What is 2 + 2?",
+            "choice1": "3",
+            "choice2": "4",
+            "choice3": "5",
+            "choice4": "6",
+            "answer": 2
+        },
+    
+    
+    {
+        "question": "Which method is used to parse a string to an integer?",
+        "choice1": "Number.parseInt()",
+        "choice2": "parseInt()",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "parseNumber()",
+        "answer": 3
+    },
+    {
+        "question": "How do you check if a variable is an array?",
+        "choice1": "Array.isArray(variable)",
+        "choice2": "variable.isArray()",
+        "choice3": "typeof variable === 'array'",
+        "choice4": "variable instanceof Array",
+        "answer": 1
+    },
+    {
+        "question": "Which keyword is used to declare a constant variable in JavaScript?",
+        "choice1": "constant",
+        "choice2": "let",
+        "choice3": "var",
+        "choice4": "const",
+        "answer": 4
+    },
+    {
+        "question": "How do you remove the last element from an array?",
+        "choice1": "array.pop()",
+        "choice2": "array.removeLast()",
+        "choice3": "array.shift()",
+        "choice4": "array.delete()",
+        "answer": 1
+    },
+    {
+        "question": "How do you add an element to the beginning of an array?",
+        "choice1": "array.push(element)",
+        "choice2": "array.unshift(element)",
+        "choice3": "array.shift(element)",
+        "choice4": "array.add(element)",
+        "answer": 2
+    },
+    {
+        "question": "How do you remove whitespace from the beginning and end of a string?",
+        "choice1": "string.trim()",
+        "choice2": "string.strip()",
+        "choice3": "string.cut()",
+        "choice4": "string.removeWhitespace()",
+        "answer": 1
+    },
+    {
+        "question": "How do you create an empty array?",
+        "choice1": "var array = ();",
+        "choice2": "var array = [];",
+        "choice3": "var array = new Array();",
+        "choice4": "var array = {};",
+        "answer": 2
+    },
+    {
+        "question": "How do you iterate over an array using a for loop?",
+        "choice1": "for (var i in array) { }",
+        "choice2": "for (var i of array) { }",
+        "choice3": "for (var i = 0; i < array.length; i++) { }",
+        "choice4": "for each (var i in array) { }",
+        "answer": 3
+    },
+    {
+        "question": "How do you check if a variable is undefined?",
+        "choice1": "typeof variable === 'undefined'",
+        "choice2": "variable == undefined",
+        "choice3": "variable === undefined",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "What is the use of the 'isNaN()' function?",
+        "choice1": "To check if a value is NaN",
+        "choice2": "To convert a value to a number",
+        "choice3": "To round a number to the nearest integer",
+        "choice4": "To parse a string as an integer",
+        "answer": 1
+    },
+    {
+        "question": "Which method is used to sort an array?",
+        "choice1": "array.sort()",
+        "choice2": "array.order()",
+        "choice3": "array.arrange()",
+        "choice4": "array.align()",
+        "answer": 1
+    },
+    {
+        "question": "How do you write a comment in JavaScript?",
+        "choice1": "/* This is a comment */",
+        "choice2": "// This is a comment",
+        "choice3": "# This is a comment",
+        "choice4": "<!-- This is a comment -->",
+        "answer": 2
+    },
+    {
+        "question": "How do you concatenate two strings in JavaScript?",
+        "choice1": "string1.concat(string2)",
+        "choice2": "string1 + string2",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "string1.append(string2)",
+        "answer": 3
+    },
+    {
+        "question": "How do you convert a string to lowercase letters?",
+        "choice1": "string.toLowerCase()",
+        "choice2": "string.lower()",
+        "choice3": "string.toLower()",
+        "choice4": "string.lowercase()",
+        "answer": 1
+    },
+    {
+        "question": "What does 'DOM' stand for?",
+        "choice1": "Document Object Model",
+        "choice2": "Data Object Model",
+        "choice3": "Digital Object Model",
+        "choice4": "Document Orientation Model",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a Date object in JavaScript?",
+        "choice1": "var date = new Date();",
+        "choice2": "var date = new DateTime();",
+        "choice3": "var date = new Date.now();",
+        "choice4": "var date = Date();",
+        "answer": 1
+    },
+    {
+        "question": "How do you set a timer in JavaScript?",
+        "choice1": "setTimeout(function, milliseconds)",
+        "choice2": "setInterval(function, milliseconds)",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "setTimer(function, milliseconds)",
+        "answer": 3
+    },
+    {
+        "question": "How do you convert a number to a string?",
+        "choice1": "number.toString()",
+        "choice2": "String(number)",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "number.toStringify()",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is not a valid JavaScript data type?",
+        "choice1": "Number",
+        "choice2": "Boolean",
+        "choice3": "Float",
+        "choice4": "Object",
+        "answer": 3
+    },
+    {
+        "question": "What is the use of the 'this' keyword?",
+        "choice1": "Refers to the current object",
+        "choice2": "Refers to the parent object",
+        "choice3": "Refers to the previous object",
+        "choice4": "Refers to the current method",
+        "answer": 1
+    },
+    {
+        "question": "How do you remove the first element from an array?",
+        "choice1": "array.pop()",
+        "choice2": "array.shift()",
+        "choice3": "array.unshift()",
+        "choice4": "array.delete()",
+        "answer": 2
+    },
+    {
+        "question": "How do you find the number of elements in an array?",
+        "choice1": "array.length",
+        "choice2": "array.size",
+        "choice3": "array.count",
+        "choice4": "array.elements",
+        "answer": 1
+    },
+    {
+        "question": "How do you add an element to the end of an array?",
+        "choice1": "array.push(element)",
+        "choice2": "array.add(element)",
+        "choice3": "array.append(element)",
+        "choice4": "array.insert(element)",
+        "answer": 1
+    },
+    {
+        "question": "How do you find the index of an element in an array?",
+        "choice1": "array.indexOf(element)",
+        "choice2": "array.findIndex(element)",
+        "choice3": "array.search(element)",
+        "choice4": "array.locate(element)",
+        "answer": 1
+    },
+    {
+        "question": "How do you generate a random number between 0 and 1?",
+        "choice1": "Math.random()",
+        "choice2": "Random.number()",
+        "choice3": "Math.rand()",
+        "choice4": "Random()",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a regular expression in JavaScript?",
+        "choice1": "var regex = /pattern/;",
+        "choice2": "var regex = new RegExp('pattern');",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "var regex = RegExp(pattern);",
+        "answer": 3
+    },
+    {
+        "question": "How do you test a regular expression in JavaScript?",
+        "choice1": "regex.test(string)",
+        "choice2": "regex.match(string)",
+        "choice3": "string.test(regex)",
+        "choice4": "string.match(regex)",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'break' statement do?",
+        "choice1": "Exits the current loop",
+        "choice2": "Exits the current function",
+        "choice3": "Exits the current script",
+        "choice4": "Exits the current condition",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'continue' statement do?",
+        "choice1": "Skips the current iteration of a loop",
+        "choice2": "Exits the current loop",
+        "choice3": "Exits the current function",
+        "choice4": "Skips the next iteration of a loop",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a promise in JavaScript?",
+        "choice1": "var promise = new Promise(function(resolve, reject) { });",
+        "choice2": "var promise = Promise(function(resolve, reject) { });",
+        "choice3": "var promise = createPromise(function(resolve, reject) { });",
+        "choice4": "var promise = new Promise(resolve, reject);",
+        "answer": 1
+    },
+    {
+        "question": "How do you handle a promise rejection?",
+        "choice1": "promise.catch(function(error) { });",
+        "choice2": "promise.error(function(error) { });",
+        "choice3": "promise.reject(function(error) { });",
+        "choice4": "promise.fail(function(error) { });",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'typeof' operator do?",
+        "choice1": "Returns the data type of a variable",
+        "choice2": "Converts a variable to a string",
+        "choice3": "Returns the value of a variable",
+        "choice4": "Converts a variable to a number",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'instanceof' operator do?",
+        "choice1": "Checks if an object is an instance of a class",
+        "choice2": "Checks if a variable is an instance of an object",
+        "choice3": "Checks if a variable is an instance of a class",
+        "choice4": "Checks if an object is an instance of a variable",
+        "answer": 1
+    },
+    {
+        "question": "How do you convert an object to a JSON string?",
+        "choice1": "JSON.stringify(object)",
+        "choice2": "JSON.parse(object)",
+        "choice3": "object.toJSON()",
+        "choice4": "object.stringify()",
+        "answer": 1
+    },
+    {
+        "question": "How do you parse a JSON string into an object?",
+        "choice1": "JSON.stringify(string)",
+        "choice2": "JSON.parse(string)",
+        "choice3": "object.toJSON()",
+        "choice4": "string.parse()",
+        "answer": 2
+    },
+    {
+        "question": "How do you add a property to an object?",
+        "choice1": "object.property = value;",
+        "choice2": "object.addProperty('property', value);",
+        "choice3": "object['property'] = value;",
+        "choice4": "Both 1 and 3 are correct",
+        "answer": 4
+    },
+    {
+        "question": "How do you remove a property from an object?",
+        "choice1": "delete object.property;",
+        "choice2": "object.removeProperty('property');",
+        "choice3": "object.property = null;",
+        "choice4": "Both 1 and 2 are correct",
+        "answer": 1
+    },
+    {
+        "question": "How do you iterate over the properties of an object?",
+        "choice1": "for (var property in object) { }",
+        "choice2": "for (var property of object) { }",
+        "choice3": "object.forEach(function(property) { });",
+        "choice4": "for (property : object) { }",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a class in JavaScript?",
+        "choice1": "class ClassName { }",
+        "choice2": "var ClassName = function() { };",
+        "choice3": "function ClassName() { }",
+        "choice4": "Both 1 and 2 are correct",
+        "answer": 4
+    },
+    {
+        "question": "How do you create a constructor method in a class?",
+        "choice1": "constructor() { }",
+        "choice2": "function constructor() { }",
+        "choice3": "class constructor() { }",
+        "choice4": "create constructor() { }",
+        "answer": 1
+    },
+    {
+        "question": "How do you create an object from a class?",
+        "choice1": "var obj = new ClassName();",
+        "choice2": "var obj = create ClassName();",
+        "choice3": "var obj = ClassName();",
+        "choice4": "var obj = Object.create(ClassName);",
+        "answer": 1
+    },
+    {
+        "question": "How do you add a method to a class?",
+        "choice1": "methodName() { }",
+        "choice2": "function methodName() { }",
+        "choice3": "add methodName() { }",
+        "choice4": "Both 1 and 2 are correct",
+        "answer": 4
+    },
+    {
+        "question": "How do you call a method from a class instance?",
+        "choice1": "object.method()",
+        "choice2": "method(object)",
+        "choice3": "class.method(object)",
+        "choice4": "object.class.method()",
+        "answer": 1
+    },
+    {
+        "question": "What is a closure in JavaScript?",
+        "choice1": "A function having access to its own scope, the outer function's scope, and the global scope",
+        "choice2": "A function having access to only its own scope",
+        "choice3": "A function having access to only the global scope",
+        "choice4": "A function having access to only the outer function's scope",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'bind' method?",
+        "choice1": "Creates a new function with a specific 'this' value",
+        "choice2": "Binds a function to an object",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "Binds a function to a variable",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of the 'apply' method?",
+        "choice1": "Calls a function with a given 'this' value and arguments provided as an array",
+        "choice2": "Calls a function with a given 'this' value and arguments provided individually",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "Applies a function to a variable",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'call' method?",
+        "choice1": "Calls a function with a given 'this' value and arguments provided individually",
+        "choice2": "Calls a function with a given 'this' value and arguments provided as an array",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "Calls a function with a given 'this' value and arguments provided as an object",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'await' keyword do?",
+        "choice1": "Pauses the execution of an async function and waits for a promise to resolve",
+        "choice2": "Pauses the execution of an async function and waits for a promise to reject",
+        "choice3": "Pauses the execution of a regular function and waits for a promise to resolve",
+        "choice4": "Pauses the execution of a regular function and waits for a promise to reject",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'async' keyword do?",
+        "choice1": "Defines a function that returns a promise",
+        "choice2": "Defines a function that does not return a promise",
+        "choice3": "Defines a function that always throws an error",
+        "choice4": "Defines a function that never throws an error",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'spread' operator do?",
+        "choice1": "Expands an array into individual elements",
+        "choice2": "Expands an object into individual properties",
+        "choice3": "Both 1 and 2 are correct",
+        "choice4": "Combines multiple arrays into one",
+        "answer": 3
+    },
+    {
+        "question": "How do you use the 'spread' operator to combine arrays?",
+        "choice1": "[...array1, ...array2]",
+        "choice2": "array1.concat(array2)",
+        "choice3": "[array1, array2]",
+        "choice4": "Both 1 and 2 are correct",
+        "answer": 4
+    },
+    {
+        "question": "How do you use the 'rest' parameter to handle multiple arguments?",
+        "choice1": "function(...args) { }",
+        "choice2": "function(args...) { }",
+        "choice3": "function(...arguments) { }",
+        "choice4": "Both 1 and 3 are correct",
+        "answer": 4
+    },
+    {
+        "question": "What is the purpose of the 'Object.keys' method?",
+        "choice1": "Returns an array of a given object's own property names",
+        "choice2": "Returns an array of a given object's own property values",
+        "choice3": "Returns an array of a given object's own key-value pairs",
+        "choice4": "Returns an array of a given object's prototype property names",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'Object.values' method?",
+        "choice1": "Returns an array of a given object's own property values",
+        "choice2": "Returns an array of a given object's own property names",
+        "choice3": "Returns an array of a given object's own key-value pairs",
+        "choice4": "Returns an array of a given object's prototype property values",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'Object.entries' method?",
+        "choice1": "Returns an array of a given object's own key-value pairs",
+        "choice2": "Returns an array of a given object's own property names",
+        "choice3": "Returns an array of a given object's own property values",
+        "choice4": "Returns an array of a given object's prototype key-value pairs",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'Object.assign' method?",
+        "choice1": "Copies all enumerable properties from one or more source objects to a target object",
+        "choice2": "Returns an array of a given object's own property names",
+        "choice3": "Returns an array of a given object's own property values",
+        "choice4": "Returns an array of a given object's own key-value pairs",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'typeof' operator return for an array?",
+        "choice1": "object",
+        "choice2": "array",
+        "choice3": "undefined",
+        "choice4": "string",
+        "answer": 1
+    },
+    {
+        "question": "What does the 'typeof' operator return for a function?",
+        "choice1": "function",
+        "choice2": "object",
+        "choice3": "undefined",
+        "choice4": "string",
+        "answer": 1
+    },
+    {
+        "question": "How do you convert a string to a number?",
+        "choice1": "parseInt(string)",
+        "choice2": "parseFloat(string)",
+        "choice3": "Number(string)",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "What is the value of 'undefined' in JavaScript?",
+        "choice1": "The variable has been declared but not assigned a value",
+        "choice2": "The variable has not been declared",
+        "choice3": "The variable has been assigned a null value",
+        "choice4": "The variable has been assigned an empty string",
+        "answer": 1
+    },
+    {
+        "question": "What is the value of 'null' in JavaScript?",
+        "choice1": "The variable has been explicitly assigned a null value",
+        "choice2": "The variable has been declared but not assigned a value",
+        "choice3": "The variable has not been declared",
+        "choice4": "The variable has been assigned an empty string",
+        "answer": 1        
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "msg('Hello World')",
+        "choice2": "alertBox('Hello World')",
+        "choice3": "msgBox('Hello World')",
+        "choice4": "alert('Hello World')",
+        "answer": 4
+    },
+    {
+        "question": "Which HTML element do we put the JavaScript inside?",
+        "choice1": "<javascript>",
+        "choice2": "<js>",
+        "choice3": "<scripting>",
+        "choice4": "<script>",
+        "answer": 4
+    },
+    {
+        "question": "Where is the correct place to insert a JavaScript?",
+        "choice1": "The <head> section",
+        "choice2": "The <body> section",
+        "choice3": "Both the <head> section and the <body> section",
+        "choice4": "None of the above",
+        "answer": 3
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "choice1": "<script href='xxx.js'>",
+        "choice2": "<script name='xxx.js'>",
+        "choice3": "<script src='xxx.js'>",
+        "choice4": "<script file='xxx.js'>",
+        "answer": 3
+    },
+    {
+        "question": "The external JavaScript file must contain the <script> tag.",
+        "choice1": "True",
+        "choice2": "False",
+        "choice3": "Sometimes",
+        "choice4": "Only if it's the first script",
+        "answer": 2
+    },
+    {
+        "question": "How do you write 'Hello World' in an alert box?",
+        "choice1": "alertBox('Hello World')",
+        "choice2": "alert('Hello World')",
+        "choice3": "msg('Hello World')",
+        "choice4": "msgBox('Hello World')",
+        "answer": 2
+    },
+    {
+        "question": "How do you create a function in JavaScript?",
+        "choice1": "function = myFunction()",
+        "choice2": "function myFunction()",
+        "choice3": "function:myFunction()",
+        "choice4": "create myFunction()",
+        "answer": 2
+    },
+    {
+        "question": "How do you call a function named 'myFunction'?",
+        "choice1": "call myFunction()",
+        "choice2": "call function myFunction()",
+        "choice3": "myFunction()",
+        "choice4": "Call.myFunction()",
+        "answer": 3
+    },
+    {
+        "question": "How to write an IF statement in JavaScript?",
+        "choice1": "if i = 5 then",
+        "choice2": "if i == 5 then",
+        "choice3": "if i = 5",
+        "choice4": "if (i == 5)",
+        "answer": 4
+    },
+    {
+        "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+        "choice1": "if (i != 5)",
+        "choice2": "if i <> 5",
+        "choice3": "if i =! 5 then",
+        "choice4": "if (i <> 5)",
+        "answer": 1
+    },
+    {
+        "question": "How does a WHILE loop start?",
+        "choice1": "while (i <= 10; i++)",
+        "choice2": "while (i <= 10)",
+        "choice3": "while i = 1 to 10",
+        "choice4": "while (i++ <= 10)",
+        "answer": 2
+    },
+    {
+        "question": "How does a FOR loop start?",
+        "choice1": "for (i = 0; i <= 5; i++)",
+        "choice2": "for (i = 0; i <= 5)",
+        "choice3": "for i = 1 to 5",
+        "choice4": "for (i <= 5; i++)",
+        "answer": 1
+    },
+    {
+        "question": "How can you add a comment in JavaScript?",
+        "choice1": "<!--This is a comment-->",
+        "choice2": "'This is a comment",
+        "choice3": "//This is a comment",
+        "choice4": "**This is a comment**",
+        "answer": 3
+    },
+    {
+        "question": "How do you add a multi-line comment in JavaScript?",
+        "choice1": "/* This is a comment */",
+        "choice2": "// This is a comment //",
+        "choice3": "<!-- This is a comment -->",
+        "choice4": "** This is a comment **",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct way to write a JavaScript array?",
+        "choice1": "var colors = (1:'red', 2:'green', 3:'blue')",
+        "choice2": "var colors = 'red', 'green', 'blue'",
+        "choice3": "var colors = ['red', 'green', 'blue']",
+        "choice4": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+        "answer": 3
+    },
+    {
+        "question": "How do you round the number 7.25 to the nearest integer?",
+        "choice1": "rnd(7.25)",
+        "choice2": "Math.round(7.25)",
+        "choice3": "round(7.25)",
+        "choice4": "Math.rnd(7.25)",
+        "answer": 2
+    },
+    {
+        "question": "How do you find the number with the highest value of x and y?",
+        "choice1": "Math.ceil(x, y)",
+        "choice2": "ceil(x, y)",
+        "choice3": "top(x, y)",
+        "choice4": "Math.max(x, y)",
+        "answer": 4
+    },
+    {
+        "question": "What is the correct JavaScript syntax for opening a new window called 'myWindow'?",
+        "choice1": "myWindow = window.open('http://www.example.com');",
+        "choice2": "myWindow = open('http://www.example.com');",
+        "choice3": "myWindow = Window.new('http://www.example.com');",
+        "choice4": "myWindow = create.window('http://www.example.com');",
+        "answer": 1
+    },
+    {
+        "question": "How do you declare a JavaScript variable?",
+        "choice1": "var carName;",
+        "choice2": "v carName;",
+        "choice3": "variable carName;",
+        "choice4": "var = carName;",
+        "answer": 1
+    },
+    {
+        "question": "Which operator is used to assign a value to a variable?",
+        "choice1": "*",
+        "choice2": "x",
+        "choice3": "-",
+        "choice4": "=",
+        "answer": 4
+    },
+    {
+        "question": "What will the following code return: Boolean(10 > 9)",
+        "choice1": "true",
+        "choice2": "NaN",
+        "choice3": "false",
+        "choice4": "null",
+        "answer": 1
+    },
+    {
+        "question": "Is JavaScript case-sensitive?",
+        "choice1": "Yes",
+        "choice2": "No",
+        "choice3": "Sometimes",
+        "choice4": "Only for variables",
+        "answer": 1
+    },
+    {
+        "question": "How can you detect the client's browser name?",
+        "choice1": "navigator.appName",
+        "choice2": "browser.name",
+        "choice3": "client.navName",
+        "choice4": "user.navigator",
+        "answer": 1
+    },
+    {
+        "question": "Which event occurs when the user clicks on an HTML element?",
+        "choice1": "onmouseclick",
+        "choice2": "onclick",
+        "choice3": "onmouseover",
+        "choice4": "onchange",
+        "answer": 2
+    },
+    {
+        "question": "How do you declare a JavaScript constant?",
+        "choice1": "constant pi = 3.14",
+        "choice2": "const pi = 3.14",
+        "choice3": "var pi = 3.14",
+        "choice4": "let pi = 3.14",
+        "answer": 2
+    },
+    {
+        "question": "Which operator is used to test for strict equality?",
+        "choice1": "=",
+        "choice2": "===",
+        "choice3": "==",
+        "choice4": "<>",
+        "answer": 2
+    },
+    {
+        "question": "How do you find the number with the lowest value of x and y?",
+        "choice1": "Math.floor(x, y)",
+        "choice2": "Math.min(x, y)",
+        "choice3": "min(x, y)",
+        "choice4": "Math.low(x, y)",
+        "answer": 2
+    },
+    {
+        "question": "How can you convert the string '123' to an integer in JavaScript?",
+        "choice1": "String(123)",
+        "choice2": "int(123)",
+        "choice3": "parseInt('123')",
+        "choice4": "Integer('123')",
+        "answer": 3
+    },
+    {
+        "question": "How do you write an array in JavaScript?",
+        "choice1": "var array = '1', '2', '3';",
+        "choice2": "var array = [1, 2, 3];",
+        "choice3": "var array = (1, 2, 3);",
+        "choice4": "var array = {1, 2, 3};",
+        "answer": 2
+    },
+    {
+        "question": "Which keyword is used to check whether a given property is valid or not?",
+        "choice1": "in",
+        "choice2": "is in",
+        "choice3": "exists",
+        "choice4": "lies",
+        "answer": 1
+    },
+    {
+        "question": "How do you get the length of an array in JavaScript?",
+        "choice1": "array.length",
+        "choice2": "array.size",
+        "choice3": "array.count",
+        "choice4": "array.len",
+        "answer": 1
+    },
+    {
+        "question": "How do you add a property to an object in JavaScript?",
+        "choice1": "object.property = value;",
+        "choice2": "object->property = value;",
+        "choice3": "object:property = value;",
+        "choice4": "object = value;",
+        "answer": 1
+    },
+    {
+        "question": "What does JSON stand for?",
+        "choice1": "JavaScript Only",
+        "choice2": "JavaScript Object Notation",
+        "choice3": "Java Source Open Network",
+        "choice4": "JavaScript Oriented Notation",
+        "answer": 2
+    },
+    {
+        "question": "How do you create an object in JavaScript?",
+        "choice1": "var obj = new Object();",
+        "choice2": "var obj = Object.create();",
+        "choice3": "var obj = {};",
+        "choice4": "var obj = create Object();",
+        "answer": 3
+    },
+    {
+        "question": "How do you remove a property from an object in JavaScript?",
+        "choice1": "delete object.property;",
+        "choice2": "remove object.property;",
+        "choice3": "object.property.delete;",
+        "choice4": "clear object.property;",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a Date object in JavaScript?",
+        "choice1": "var date = new Date();",
+        "choice2": "var date = Date();",
+        "choice3": "var date = new getDate();",
+        "choice4": "var date = create Date();",
+        "answer": 1
+    },
+    {
+        "question": "Which method returns the length of a string?",
+        "choice1": "length()",
+        "choice2": "getLength()",
+        "choice3": "size()",
+        "choice4": "None of the above",
+        "answer": 4
+    },
+    {
+        "question": "How do you declare a variable that cannot be reassigned?",
+        "choice1": "let x = 10;",
+        "choice2": "const x = 10;",
+        "choice3": "var x = 10;",
+        "choice4": "constant x = 10;",
+        "answer": 2
+    },
+    {
+        "question": "Which symbol is used for comments in JavaScript?",
+        "choice1": "//",
+        "choice2": "/*",
+        "choice3": "<!--",
+        "choice4": "#",
+        "answer": 1
+    },
+    {
+        "question": "Which company developed JavaScript?",
+        "choice1": "Microsoft",
+        "choice2": "Google",
+        "choice3": "Netscape",
+        "choice4": "Apple",
+        "answer": 3
+    },
+    {
+        "question": "Which method returns the character at a specific index?",
+        "choice1": "charAt()",
+        "choice2": "indexOf()",
+        "choice3": "substring()",
+        "choice4": "slice()",
+        "answer": 1
+    },
+    {
+        "question": "How do you write a switch statement?",
+        "choice1": "switch expression { case x: break; case y: break; }",
+        "choice2": "switch (expression) { case x: break; case y: break; }",
+        "choice3": "switch [expression] { case x: break; case y: break; }",
+        "choice4": "switch <expression> { case x: break; case y: break; }",
+        "answer": 2
+    },
+    {
+        "question": "How do you check if an array includes a certain element?",
+        "choice1": "array.has(element)",
+        "choice2": "array.contains(element)",
+        "choice3": "array.includes(element)",
+        "choice4": "array.indexOf(element)",
+        "answer": 3
+    },
+    {
+        "question": "How do you write a function that returns a promise?",
+        "choice1": "function myFunction() { return promise(); }",
+        "choice2": "function myFunction() { return new Promise(); }",
+        "choice3": "function myFunction() { return new Promise((resolve, reject) => {}); }",
+        "choice4": "function myFunction() { promise.new(); }",
+        "answer": 3
+    },
+    {
+        "question": "Which method is used to convert JSON to a JavaScript object?",
+        "choice1": "JSON.convert()",
+        "choice2": "JSON.parse()",
+        "choice3": "JSON.stringify()",
+        "choice4": "JSON.toObject()",
+        "answer": 2
+    },
+    {
+        "question": "How do you select an element with the class name 'container'?",
+        "choice1": "document.querySelector('#container');",
+        "choice2": "document.getElementByClass('container');",
+        "choice3": "document.getElementsByClassName('container');",
+        "choice4": "document.querySelector('.container');",
+        "answer": 4
+    },
+    {
+        "question": "How do you add an event listener to a button?",
+        "choice1": "button.on('click', function() {});",
+        "choice2": "button.click(function() {});",
+        "choice3": "button.addEventListener('click', function() {});",
+        "choice4": "button.eventListener('click', function() {});",
+        "answer": 3
+    },
+    {
+        "question": "How do you convert a string to uppercase?",
+        "choice1": "string.upperCase()",
+        "choice2": "string.toUpperCase()",
+        "choice3": "string.toUpper()",
+        "choice4": "upperCase(string)",
+        "answer": 2
+    },
+    {
+        "question": "How do you generate a random number between 0 and 1?",
+        "choice1": "Math.random()",
+        "choice2": "random()",
+        "choice3": "Math.random(1)",
+        "choice4": "random(Math)",
+        "answer": 1
+    },
+    {
+        "question": "How do you check if a variable is an array?",
+        "choice1": "Array.isArray(variable)",
+        "choice2": "variable.isArray()",
+        "choice3": "isArray(variable)",
+        "choice4": "variable.isArray",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a new array from an existing one?",
+        "choice1": "array.copy()",
+        "choice2": "array.clone()",
+        "choice3": "array.from()",
+        "choice4": "[...array]",
+        "answer": 4
+    },
+    {
+        "question": "How do you remove the last item from an array?",
+        "choice1": "array.pop()",
+        "choice2": "array.remove()",
+        "choice3": "array.delete()",
+        "choice4": "array.end()",
+        "answer": 1
+    },
+    {
+        "question": "How do you merge two arrays?",
+        "choice1": "array.merge(array2)",
+        "choice2": "array.concat(array2)",
+        "choice3": "array.join(array2)",
+        "choice4": "array.add(array2)",
+        "answer": 2
+    },
+    {
+        "question": "How do you sort an array?",
+        "choice1": "array.sort()",
+        "choice2": "array.order()",
+        "choice3": "array.arrange()",
+        "choice4": "array.align()",
+        "answer": 1
+    },
+    {
+        "question": "How do you reverse an array?",
+        "choice1": "array.reverse()",
+        "choice2": "array.invert()",
+        "choice3": "array.flip()",
+        "choice4": "array.turn()",
+        "answer": 1
+    },
+    {
+        "question": "How do you add an element to the beginning of an array?",
+        "choice1": "array.push(element)",
+        "choice2": "array.unshift(element)",
+        "choice3": "array.shift(element)",
+        "choice4": "array.add(element)",
+        "answer": 2
+    },
+    {
+        "question": "Which keyword is used to define a JavaScript function?",
+        "choice1": "func",
+        "choice2": "function",
+        "choice3": "def",
+        "choice4": "define",
+        "answer": 2
+    },
+    {
+        "question": "Which method converts an array to a string?",
+        "choice1": "array.toString()",
+        "choice2": "array.stringify()",
+        "choice3": "array.join()",
+        "choice4": "array.convert()",
+        "answer": 1
+    },
+    {
+        "question": "How do you check if a string starts with a specific substring?",
+        "choice1": "string.startsWith(substring)",
+        "choice2": "string.beginsWith(substring)",
+        "choice3": "string.hasPrefix(substring)",
+        "choice4": "string.contains(substring)",
+        "answer": 1
+    },
+    {
+        "question": "How do you replace all occurrences of a substring in a string?",
+        "choice1": "string.replace('old', 'new')",
+        "choice2": "string.replaceAll('old', 'new')",
+        "choice3": "string.swap('old', 'new')",
+        "choice4": "string.alter('old', 'new')",
+        "answer": 2
+    },
+    {
+        "question": "How do you remove whitespace from the beginning and end of a string?",
+        "choice1": "string.trim()",
+        "choice2": "string.strip()",
+        "choice3": "string.cut()",
+        "choice4": "string.removeWhitespace()",
+        "answer": 1
+    },
+    {
+        "question": "Which method converts a number to a string?",
+        "choice1": "number.toString()",
+        "choice2": "number.string()",
+        "choice3": "number.convert()",
+        "choice4": "number.toText()",
+        "answer": 1
+    },
+    {
+        "question": "How do you add an element to the end of an array?",
+        "choice1": "array.add(element)",
+        "choice2": "array.append(element)",
+        "choice3": "array.push(element)",
+        "choice4": "array.insert(element)",
+        "answer": 3
+    },
+    {
+        "question": "Which method finds the first occurrence of a substring in a string?",
+        "choice1": "string.search()",
+        "choice2": "string.find()",
+        "choice3": "string.locate()",
+        "choice4": "string.indexOf()",
+        "answer": 4
+    },
+    {
+        "question": "How do you define a JavaScript class?",
+        "choice1": "class MyClass { }",
+        "choice2": "class: MyClass { }",
+        "choice3": "define MyClass { }",
+        "choice4": "function MyClass { }",
+        "answer": 1
+    },
+    {
+        "question": "Which method returns the index of the last occurrence of a specified value in a string?",
+        "choice1": "string.lastIndexOf()",
+        "choice2": "string.indexOfLast()",
+        "choice3": "string.findLastIndex()",
+        "choice4": "string.lastIndex()",
+        "answer": 1
+    },
+    {
+        "question": "How do you create an object using a constructor function?",
+        "choice1": "var obj = create Object();",
+        "choice2": "var obj = new Object();",
+        "choice3": "var obj = Object.create();",
+        "choice4": "var obj = construct Object();",
+        "answer": 2
+    },
+    {
+        "question": "How do you add a key-value pair to a Map?",
+        "choice1": "map.set(key, value);",
+        "choice2": "map.add(key, value);",
+        "choice3": "map.insert(key, value);",
+        "choice4": "map.put(key, value);",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a Set in JavaScript?",
+        "choice1": "var set = new Set();",
+        "choice2": "var set = Set.create();",
+        "choice3": "var set = new HashSet();",
+        "choice4": "var set = create Set();",
+        "answer": 1
+    },
+    {
+        "question": "How do you check if a Map contains a specific key?",
+        "choice1": "map.includes(key)",
+        "choice2": "map.contains(key)",
+        "choice3": "map.has(key)",
+        "choice4": "map.keyExists(key)",
+        "answer": 3
+    },
+    {
+        "question": "How do you get the current timestamp in milliseconds?",
+        "choice1": "Date.getTime()",
+        "choice2": "Date.now()",
+        "choice3": "new Date().getTime()",
+        "choice4": "timestamp()",
+        "answer": 2
+    },
+    {
+        "question": "How do you check if a string contains a specific substring?",
+        "choice1": "string.has(substring)",
+        "choice2": "string.contains(substring)",
+        "choice3": "string.includes(substring)",
+        "choice4": "string.check(substring)",
+        "answer": 3
+    },
+    {
+        "question": "How do you create a new Promise?",
+        "choice1": "var promise = new Promise();",
+        "choice2": "var promise = Promise.create();",
+        "choice3": "var promise = create Promise();",
+        "choice4": "var promise = new Promise((resolve, reject) => {});",
+        "answer": 4
+    },
+    {
+        "question": "How do you execute a block of code after a promise is resolved?",
+        "choice1": "promise.then()",
+        "choice2": "promise.do()",
+        "choice3": "promise.execute()",
+        "choice4": "promise.run()",
+        "answer": 1
+    },
+    {
+        "question": "How do you create an empty array?",
+        "choice1": "var array = ();",
+        "choice2": "var array = [];",
+        "choice3": "var array = new Array();",
+        "choice4": "var array = {};",
+        "answer": 2
+    },
+    {
+        "question": "How do you create a shallow copy of an object?",
+        "choice1": "Object.copy(obj)",
+        "choice2": "Object.clone(obj)",
+        "choice3": "Object.assign({}, obj)",
+        "choice4": "Object.new(obj)",
+        "answer": 3
+    },
+    {
+        "question": "How do you convert a JavaScript object to a JSON string?",
+        "choice1": "JSON.stringify(obj)",
+        "choice2": "JSON.parse(obj)",
+        "choice3": "JSON.convert(obj)",
+        "choice4": "JSON.toJson(obj)",
+        "answer": 1
+    },
+    {
+        "question": "How do you remove the first item from an array?",
+        "choice1": "array.pop()",
+        "choice2": "array.remove()",
+        "choice3": "array.shift()",
+        "choice4": "array.delete()",
+        "answer": 3
+    },
+    {
+        "question": "Which keyword is used to refer to the current object in JavaScript?",
+        "choice1": "self",
+        "choice2": "current",
+        "choice3": "object",
+        "choice4": "this",
+        "answer": 4
+    },
+    {
+        "question": "How do you iterate over an array using a for loop?",
+        "choice1": "for (var i in array) { }",
+        "choice2": "for (var i of array) { }",
+        "choice3": "for (var i = 0; i < array.length; i++) { }",
+        "choice4": "for each (var i in array) { }",
+        "answer": 3
+    },
+    {
+        "question": "How do you merge properties of two objects?",
+        "choice1": "Object.merge(obj1, obj2)",
+        "choice2": "Object.assign(obj1, obj2)",
+        "choice3": "obj1.merge(obj2)",
+        "choice4": "obj1.assign(obj2)",
+        "answer": 2
+    },
+    {
+        "question": "How do you remove a specific element from an array?",
+        "choice1": "array.remove(element)",
+        "choice2": "array.splice(index, 1)",
+        "choice3": "array.delete(index)",
+        "choice4": "array.erase(element)",
+        "answer": 2
+    },
+    {
+        "question": "How do you add multiple elements to the end of an array?",
+        "choice1": "array.push(elements)",
+        "choice2": "array.append(elements)",
+        "choice3": "array.add(elements)",
+        "choice4": "array.concat(elements)",
+        "answer": 1
+    },
+    {
+        "question": "How do you add multiple elements to the end of an array?",
+        "choice1": "array.push(elements)",
+        "choice2": "array.append(elements)",
+        "choice3": "array.add(elements)",
+        "choice4": "array.concat(elements)",
+        "answer": 1
+    },
+    {
+        "question": "Which method is used to remove the last element from an array?",
+        "choice1": "array.shift()",
+        "choice2": "array.pop()",
+        "choice3": "array.remove()",
+        "choice4": "array.delete()",
+        "answer": 2
+    },
+    {
+        "question": "In JavaScript, what does the '===' operator do?",
+        "choice1": "Checks for equality and type",
+        "choice2": "Checks for equality only",
+        "choice3": "Checks for type only",
+        "choice4": "Assigns value",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of the 'return' statement in a function?",
+        "choice1": "To exit the function",
+        "choice2": "To print a value",
+        "choice3": "To assign a value",
+        "choice4": "To call another function",
+        "answer": 1
+    },
+    {
+        "question": "How do you create a new HTML element with JavaScript?",
+        "choice1": "document.createElement('element')",
+        "choice2": "document.addElement('element')",
+        "choice3": "document.newElement('element')",
+        "choice4": "document.insertElement('element')",
+        "answer": 1
+    },
+    {
+        "question": "Which CSS property is used to change the font size?",
+        "choice1": "font-style",
+        "choice2": "text-size",
+        "choice3": "font-size",
+        "choice4": "text-font",
+        "answer": 3
+    },
+    {
+        "question": "What does 'JSON' stand for?",
+        "choice1": "JavaScript Object Notation",
+        "choice2": "JavaScript Online Notation",
+        "choice3": "JavaScript Organized Notation",
+        "choice4": "JavaScript Original Notation",
+        "answer": 1
+    },
+    {
+        "question": "Which method is used to convert a JSON string to a JavaScript object?",
+        "choice1": "JSON.parse()",
+        "choice2": "JSON.stringify()",
+        "choice3": "JSON.convert()",
+        "choice4": "JSON.toObject()",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "choice1": "<script src='script.js'>",
+        "choice2": "<script href='script.js'>",
+        "choice3": "<script link='script.js'>",
+        "choice4": "<script file='script.js'>",
+        "answer": 1
+    },
+    {
+        "question": "How do you select an element with the id 'header' using JavaScript?",
+        "choice1": "document.querySelector('#header')",
+        "choice2": "document.getElementById('header')",
+        "choice3": "document.getElementByClassName('header')",
+        "choice4": "document.selectElement('header')",
+        "answer": 2
+    },
+    {
+        "question": "Which property is used to set the background color in CSS?",
+        "choice1": "background-color",
+        "choice2": "bg-color",
+        "choice3": "color-background",
+        "choice4": "color-bg",
+        "answer": 1
+    },
+    {
+        "question": "What is the default value of the 'position' property in CSS?",
+        "choice1": "absolute",
+        "choice2": "relative",
+        "choice3": "static",
+        "choice4": "fixed",
+        "answer": 3
+    },
+    {
+        "question": "Which method is used to find the length of an array?",
+        "choice1": "array.size()",
+        "choice2": "array.length()",
+        "choice3": "array.count()",
+        "choice4": "array.length",
+        "answer": 4
+    },
+    {
+        "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+        "choice1": "To handle errors",
+        "choice2": "To loop through data",
+        "choice3": "To define variables",
+        "choice4": "To create functions",
+        "answer": 1
+    },
+    {
+        "question": "How do you define a function in JavaScript?",
+        "choice1": "function myFunction() {}",
+        "choice2": "def myFunction() {}",
+        "choice3": "function: myFunction() {}",
+        "choice4": "func myFunction() {}",
+        "answer": 1
+    },
+    {
+        "question": "Which HTML element is used to define the structure of a webpage?",
+        "choice1": "<structure>",
+        "choice2": "<html>",
+        "choice3": "<body>",
+        "choice4": "<div>",
+        "answer": 2
+    },
+    {
+        "question": "How do you add a comment in JavaScript?",
+        "choice1": "// comment",
+        "choice2": "<!-- comment -->",
+        "choice3": "/* comment */",
+        "choice4": "/* comment",
+        "answer": 1
+    },
+    {
+        "question": "Which CSS property is used to change the text color?",
+        "choice1": "text-color",
+        "choice2": "color",
+        "choice3": "font-color",
+        "choice4": "text-style",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a valid HTML tag?",
+        "choice1": "<header>",
+        "choice2": "<main>",
+        "choice3": "<footer>",
+        "choice4": "<element>",
+        "answer": 4
+    },
+    {
+        "question": "How do you declare a variable in JavaScript?",
+        "choice1": "var myVar;",
+        "choice2": "variable myVar;",
+        "choice3": "declare myVar;",
+        "choice4": "let myVar;",
+        "answer": 1
+    },
+    {
+        "question": "Which JavaScript function is used to get the current date and time?",
+        "choice1": "Date()",
+        "choice2": "new Date()",
+        "choice3": "currentDate()",
+        "choice4": "now()",
+        "answer": 2
+    },
+    {
+        "question": "How do you include a CSS file in an HTML document?",
+        "choice1": "<style src='styles.css'>",
+        "choice2": "<link rel='stylesheet' href='styles.css'>",
+        "choice3": "<css file='styles.css'>",
+        "choice4": "<script src='styles.css'>",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest continent by land area?",
+        "choice1": "Africa",
+        "choice2": "Asia",
+        "choice3": "Europe",
+        "choice4": "North America",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "South Korea",
+        "choice4": "Thailand",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Canberra",
+        "choice4": "Brisbane",
+        "answer": 3
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Yangtze",
+        "choice4": "Mississippi",
+        "answer": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choice1": "Venus",
+        "choice2": "Mars",
+        "choice3": "Jupiter",
+        "choice4": "Saturn",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first man to walk on the Moon?",
+        "choice1": "Neil Armstrong",
+        "choice2": "Buzz Aldrin",
+        "choice3": "Yuri Gagarin",
+        "choice4": "Michael Collins",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "choice1": "Atlantic Ocean",
+        "choice2": "Indian Ocean",
+        "choice3": "Southern Ocean",
+        "choice4": "Pacific Ocean",
+        "answer": 4
+    },
+    {
+        "question": "Which country is the smallest in the world by land area?",
+        "choice1": "Monaco",
+        "choice2": "San Marino",
+        "choice3": "Vatican City",
+        "choice4": "Liechtenstein",
+        "answer": 3
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "choice1": "K2",
+        "choice2": "Mount Everest",
+        "choice3": "Kangchenjunga",
+        "choice4": "Lhotse",
+        "answer": 2
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "choice1": "Sahara",
+        "choice2": "Arabian",
+        "choice3": "Gobi",
+        "choice4": "Kalahari",
+        "answer": 1
+    },
+    {
+        "question": "Which country has the longest coastline?",
+        "choice1": "Australia",
+        "choice2": "Canada",
+        "choice3": "Russia",
+        "choice4": "United States",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choice1": "Toronto",
+        "choice2": "Vancouver",
+        "choice3": "Montreal",
+        "choice4": "Ottawa",
+        "answer": 4
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "choice1": "Jane Austen",
+        "choice2": "Charles Dickens",
+        "choice3": "George Orwell",
+        "choice4": "Mark Twain",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the City of Lights?",
+        "choice1": "New York",
+        "choice2": "London",
+        "choice3": "Paris",
+        "choice4": "Tokyo",
+        "answer": 3
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "choice1": "Au",
+        "choice2": "Ag",
+        "choice3": "Pb",
+        "choice4": "Fe",
+        "answer": 1
+    },
+    {
+        "question": "Which ocean is located to the east of Africa?",
+        "choice1": "Atlantic Ocean",
+        "choice2": "Indian Ocean",
+        "choice3": "Pacific Ocean",
+        "choice4": "Southern Ocean",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the longest river in Asia?",
+        "choice1": "Yellow River",
+        "choice2": "Ganges",
+        "choice3": "Mekong",
+        "choice4": "Yangtze",
+        "answer": 4
+    },
+    {
+        "question": "Which country is famous for its pyramids?",
+        "choice1": "Greece",
+        "choice2": "Italy",
+        "choice3": "Egypt",
+        "choice4": "Mexico",
+        "answer": 3
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "choice1": "Hydrogen",
+        "choice2": "Helium",
+        "choice3": "Oxygen",
+        "choice4": "Carbon",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "choice1": "Rio de Janeiro",
+        "choice2": "São Paulo",
+        "choice3": "Brasília",
+        "choice4": "Salvador",
+        "answer": 3
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "choice1": "Greenland",
+        "choice2": "New Guinea",
+        "choice3": "Borneo",
+        "choice4": "Madagascar",
+        "answer": 1
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "choice1": "Venus",
+        "choice2": "Earth",
+        "choice3": "Mercury",
+        "choice4": "Mars",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "choice1": "Thomas Jefferson",
+        "choice2": "Abraham Lincoln",
+        "choice3": "George Washington",
+        "choice4": "John Adams",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known for the Eiffel Tower?",
+        "choice1": "France",
+        "choice2": "Germany",
+        "choice3": "Spain",
+        "choice4": "Italy",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest country by population?",
+        "choice1": "India",
+        "choice2": "China",
+        "choice3": "United States",
+        "choice4": "Indonesia",
+        "answer": 2
+    },
+    {
+        "question": "Which planet is known as the Gas Giant?",
+        "choice1": "Earth",
+        "choice2": "Mars",
+        "choice3": "Jupiter",
+        "choice4": "Venus",
+        "answer": 3
+    },
+    {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "choice1": "Australia",
+        "choice2": "Indonesia",
+        "choice3": "Philippines",
+        "choice4": "Malaysia",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "choice1": "Florence",
+        "choice2": "Rome",
+        "choice3": "Venice",
+        "choice4": "Milan",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "choice1": "Iceland",
+        "choice2": "Norway",
+        "choice3": "Sweden",
+        "choice4": "Finland",
+        "answer": 2
+    },
+    {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "choice1": "J.D. Salinger",
+        "choice2": "F. Scott Fitzgerald",
+        "choice3": "Ernest Hemingway",
+        "choice4": "John Steinbeck",
+        "answer": 1
+    },
+    {
+        "question": "Which is the smallest ocean in the world?",
+        "choice1": "Atlantic Ocean",
+        "choice2": "Indian Ocean",
+        "choice3": "Arctic Ocean",
+        "choice4": "Southern Ocean",
+        "answer": 3
+    },
+    {
+        "question": "What is the name of the closest star to Earth?",
+        "choice1": "Sirius",
+        "choice2": "Alpha Centauri",
+        "choice3": "Proxima Centauri",
+        "choice4": "Betelgeuse",
+        "answer": 3
+    },
+    {
+        "question": "Which country has the most volcanoes?",
+        "choice1": "United States",
+        "choice2": "Japan",
+        "choice3": "Indonesia",
+        "choice4": "Italy",
+        "answer": 3
+    },
+    {
+        "question": "Which ocean is located to the west of Australia?",
+        "choice1": "Indian Ocean",
+        "choice2": "Pacific Ocean",
+        "choice3": "Atlantic Ocean",
+        "choice4": "Southern Ocean",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "choice1": "Cairo",
+        "choice2": "Alexandria",
+        "choice3": "Giza",
+        "choice4": "Luxor",
+        "answer": 1
+    },
+    {
+        "question": "Which famous structure is located in Italy and leans to one side?",
+        "choice1": "Colosseum",
+        "choice2": "Leaning Tower of Pisa",
+        "choice3": "Eiffel Tower",
+        "choice4": "Pantheon",
+        "answer": 2
+    },
+    {
+        "question": "Which U.S. state is known as the Sunshine State?",
+        "choice1": "California",
+        "choice2": "Texas",
+        "choice3": "Florida",
+        "choice4": "Hawaii",
+        "answer": 3
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "choice1": "Isaac Newton",
+        "choice2": "Albert Einstein",
+        "choice3": "Galileo Galilei",
+        "choice4": "Niels Bohr",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the largest volcano in the solar system?",
+        "choice1": "Mount Fuji",
+        "choice2": "Mount St. Helens",
+        "choice3": "Olympus Mons",
+        "choice4": "Kilauea",
+        "answer": 3
+    },
+    {
+        "question": "Which is the highest waterfall in the world?",
+        "choice1": "Angel Falls",
+        "choice2": "Niagara Falls",
+        "choice3": "Victoria Falls",
+        "choice4": "Iguazu Falls",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choice1": "Kyoto",
+        "choice2": "Osaka",
+        "choice3": "Tokyo",
+        "choice4": "Hiroshima",
+        "answer": 3
+    },
+    {
+        "question": "Which country is famous for inventing the first airplane?",
+        "choice1": "Germany",
+        "choice2": "France",
+        "choice3": "United States",
+        "choice4": "Italy",
+        "answer": 3
+    },
+    {
+        "question": "What is the currency used in Japan?",
+        "choice1": "Yuan",
+        "choice2": "Won",
+        "choice3": "Yen",
+        "choice4": "Ringgit",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known as the Land of the Long White Cloud?",
+        "choice1": "New Zealand",
+        "choice2": "Australia",
+        "choice3": "Fiji",
+        "choice4": "Samoa",
+        "answer": 1
+    },
+    {
+        "question": "What is the smallest country in Africa by land area?",
+        "choice1": "Lesotho",
+        "choice2": "Gambia",
+        "choice3": "Swaziland",
+        "choice4": "Djibouti",
+        "answer": 2
+    },
+    {
+        "question": "Which famous landmark is located in the United Kingdom?",
+        "choice1": "Eiffel Tower",
+        "choice2": "Big Ben",
+        "choice3": "Statue of Liberty",
+        "choice4": "Sydney Opera House",
+        "answer": 2
+    },
+    {
+        "question": "Which city is known as the financial capital of the world?",
+        "choice1": "New York",
+        "choice2": "London",
+        "choice3": "Tokyo",
+        "choice4": "Hong Kong",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest desert in Asia?",
+        "choice1": "Gobi Desert",
+        "choice2": "Karakum Desert",
+        "choice3": "Arabian Desert",
+        "choice4": "Thar Desert",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest island in the Mediterranean Sea?",
+        "choice1": "Sicily",
+        "choice2": "Cyprus",
+        "choice3": "Corsica",
+        "choice4": "Crete",
+        "answer": 4
+    },
+    {
+        "question": "Which country is known for the fjords?",
+        "choice1": "Sweden",
+        "choice2": "Norway",
+        "choice3": "Denmark",
+        "choice4": "Iceland",
+        "answer": 2
+    },
+    {
+        "question": "Which ancient wonder was located in Babylon?",
+        "choice1": "Hanging Gardens",
+        "choice2": "Great Pyramid of Giza",
+        "choice3": "Colossus of Rhodes",
+        "choice4": "Temple of Artemis",
+        "answer": 1
+    },
+    {
+        "question": "What is the currency used in the United Kingdom?",
+        "choice1": "Euro",
+        "choice2": "Pound Sterling",
+        "choice3": "Dollar",
+        "choice4": "Yen",
+        "answer": 2
+    },
+    {
+        "question": "Which famous explorer is credited with discovering America in 1492?",
+        "choice1": "Ferdinand Magellan",
+        "choice2": "Christopher Columbus",
+        "choice3": "Vasco da Gama",
+        "choice4": "James Cook",
+        "answer": 2
+    },
+    {
+        "question": "Which city is known as the Eternal City?",
+        "choice1": "Athens",
+        "choice2": "Rome",
+        "choice3": "Istanbul",
+        "choice4": "Cairo",
+        "answer": 2
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "choice1": "Burj Khalifa",
+        "choice2": "Shanghai Tower",
+        "choice3": "Abraj Al Bait Clock Tower",
+        "choice4": "One World Trade Center",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for the Taj Mahal?",
+        "choice1": "India",
+        "choice2": "Pakistan",
+        "choice3": "Bangladesh",
+        "choice4": "Nepal",
+        "answer": 1
+    },
+    {
+        "question": "Which famous river flows through Egypt?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Ganges",
+        "choice4": "Tigris",
+        "answer": 2
+    },
+    {
+        "question": "Which U.S. state is known as the Aloha State?",
+        "choice1": "California",
+        "choice2": "Florida",
+        "choice3": "Hawaii",
+        "choice4": "Texas",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known for the Great Wall?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "South Korea",
+        "choice4": "Mongolia",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest city by population in the world?",
+        "choice1": "New York City",
+        "choice2": "Tokyo",
+        "choice3": "Shanghai",
+        "choice4": "Mumbai",
+        "answer": 2
+    },
+    {
+        "question": "Which famous artist painted the Mona Lisa?",
+        "choice1": "Vincent van Gogh",
+        "choice2": "Leonardo da Vinci",
+        "choice3": "Pablo Picasso",
+        "choice4": "Claude Monet",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of the longest river in North America?",
+        "choice1": "Mississippi River",
+        "choice2": "Colorado River",
+        "choice3": "Rio Grande",
+        "choice4": "Columbia River",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its maple syrup?",
+        "choice1": "Canada",
+        "choice2": "United States",
+        "choice3": "Sweden",
+        "choice4": "Finland",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its tulip fields?",
+        "choice1": "Netherlands",
+        "choice2": "Belgium",
+        "choice3": "France",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Which famous playwright wrote 'Romeo and Juliet'?",
+        "choice1": "William Shakespeare",
+        "choice2": "George Bernard Shaw",
+        "choice3": "Arthur Miller",
+        "choice4": "Tennessee Williams",
+        "answer": 1
+    },
+    {
+        "question": "Which country has the highest number of UNESCO World Heritage Sites?",
+        "choice1": "Italy",
+        "choice2": "China",
+        "choice3": "India",
+        "choice4": "France",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest city in Africa by population?",
+        "choice1": "Lagos",
+        "choice2": "Cairo",
+        "choice3": "Kinshasa",
+        "choice4": "Johannesburg",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its high quality of life and neutrality?",
+        "choice1": "Sweden",
+        "choice2": "Switzerland",
+        "choice3": "Norway",
+        "choice4": "Finland",
+        "answer": 2
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "choice1": "Spanish",
+        "choice2": "Portuguese",
+        "choice3": "French",
+        "choice4": "English",
+        "answer": 2
+    },
+    {
+        "question": "Which ocean is located to the south of Africa?",
+        "choice1": "Indian Ocean",
+        "choice2": "Atlantic Ocean",
+        "choice3": "Pacific Ocean",
+        "choice4": "Southern Ocean",
+        "answer": 4
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "choice1": "Seoul",
+        "choice2": "Busan",
+        "choice3": "Incheon",
+        "choice4": "Daegu",
+        "answer": 1
+    },
+    {
+        "question": "Which famous scientist developed the laws of motion and universal gravitation?",
+        "choice1": "Isaac Newton",
+        "choice2": "Galileo Galilei",
+        "choice3": "Albert Einstein",
+        "choice4": "Nikola Tesla",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the Gateway to India?",
+        "choice1": "Mumbai",
+        "choice2": "Delhi",
+        "choice3": "Kolkata",
+        "choice4": "Chennai",
+        "answer": 1
+    },
+    {
+        "question": "Which country is the origin of the tango dance?",
+        "choice1": "Argentina",
+        "choice2": "Brazil",
+        "choice3": "Chile",
+        "choice4": "Spain",
+        "answer": 1
+    },
+    {
+        "question": "Which river flows through Baghdad?",
+        "choice1": "Tigris",
+        "choice2": "Euphrates",
+        "choice3": "Nile",
+        "choice4": "Jordan",
+        "answer": 1
+    },
+    {
+        "question": "Which African country was formerly known as Rhodesia?",
+        "choice1": "South Africa",
+        "choice2": "Zimbabwe",
+        "choice3": "Zambia",
+        "choice4": "Kenya",
+        "answer": 2
+    },
+    {
+        "question": "Which famous British scientist is known for his work on electromagnetism?",
+        "choice1": "Michael Faraday",
+        "choice2": "James Clerk Maxwell",
+        "choice3": "Isaac Newton",
+        "choice4": "Charles Darwin",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest coral reef system in the world?",
+        "choice1": "Great Barrier Reef",
+        "choice2": "Belize Barrier Reef",
+        "choice3": "Red Sea Reef",
+        "choice4": "New Caledonian Reef",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for the traditional dance form, Flamenco?",
+        "choice1": "Spain",
+        "choice2": "Portugal",
+        "choice3": "Italy",
+        "choice4": "Greece",
+        "answer": 1
+    },
+    {
+        "question": "Which famous landmark is located in Sydney, Australia?",
+        "choice1": "Sydney Opera House",
+        "choice2": "Great Barrier Reef",
+        "choice3": "Uluru",
+        "choice4": "Bondi Beach",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the famous clock tower in London?",
+        "choice1": "Big Ben",
+        "choice2": "Clock Tower",
+        "choice3": "St. Stephen's Tower",
+        "choice4": "London Tower",
+        "answer": 1
+    },
+    {
+        "question": "Which is the smallest country in Asia by land area?",
+        "choice1": "Maldives",
+        "choice2": "Brunei",
+        "choice3": "Singapore",
+        "choice4": "Palestine",
+        "answer": 3
+    },
+    {
+        "question": "Which city is known as the Pearl of the Indian Ocean?",
+        "choice1": "Colombo",
+        "choice2": "Kandy",
+        "choice3": "Galle",
+        "choice4": "Jaffna",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest lake in Africa?",
+        "choice1": "Lake Victoria",
+        "choice2": "Lake Tanganyika",
+        "choice3": "Lake Malawi",
+        "choice4": "Lake Albert",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "choice1": "Barcelona",
+        "choice2": "Madrid",
+        "choice3": "Valencia",
+        "choice4": "Seville",
+        "answer": 2
+    },
+    {
+        "question": "Which famous structure was built during the Ming Dynasty in China?",
+        "choice1": "Forbidden City",
+        "choice2": "Great Wall",
+        "choice3": "Terracotta Army",
+        "choice4": "Summer Palace",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the famous festival held in Rio de Janeiro, Brazil?",
+        "choice1": "Carnival",
+        "choice2": "Oktoberfest",
+        "choice3": "Diwali",
+        "choice4": "Mardi Gras",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for its windmills?",
+        "choice1": "Netherlands",
+        "choice2": "Denmark",
+        "choice3": "Sweden",
+        "choice4": "Belgium",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "choice1": "Istanbul",
+        "choice2": "Ankara",
+        "choice3": "Izmir",
+        "choice4": "Antalya",
+        "answer": 2
+    },
+    {
+        "question": "Which is the largest volcano in the United States?",
+        "choice1": "Mount St. Helens",
+        "choice2": "Kilauea",
+        "choice3": "Mount Rainier",
+        "choice4": "Mount McKinley",
+        "answer": 2
+    },
+    {
+        "question": "Which is the largest city in South America by population?",
+        "choice1": "Buenos Aires",
+        "choice2": "Sao Paulo",
+        "choice3": "Rio de Janeiro",
+        "choice4": "Lima",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "choice1": "Buenos Aires",
+        "choice2": "Cordoba",
+        "choice3": "Rosario",
+        "choice4": "Mendoza",
+        "answer": 1
+    },
+    {
+        "question": "Which country is home to the famous archaeological site of Machu Picchu?",
+        "choice1": "Peru",
+        "choice2": "Colombia",
+        "choice3": "Ecuador",
+        "choice4": "Bolivia",
+        "answer": 1
+    },
+    {
+        "question": "What is the official language of Egypt?",
+        "choice1": "Arabic",
+        "choice2": "French",
+        "choice3": "English",
+        "choice4": "Hebrew",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known as the Golden State?",
+        "choice1": "California",
+        "choice2": "New York",
+        "choice3": "Texas",
+        "choice4": "Florida",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for the traditional dance called the Hula?",
+        "choice1": "Hawaii",
+        "choice2": "Polynesia",
+        "choice3": "Samoa",
+        "choice4": "New Zealand",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the Silicon Valley?",
+        "choice1": "San Francisco",
+        "choice2": "Los Angeles",
+        "choice3": "San Jose",
+        "choice4": "Seattle",
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "choice1": "Cape Town",
+        "choice2": "Johannesburg",
+        "choice3": "Pretoria",
+        "choice4": "Durban",
+        "answer": 3
+    },
+    {
+        "question": "Which famous scientist is known for his work on the theory of evolution?",
+        "choice1": "Charles Darwin",
+        "choice2": "Albert Einstein",
+        "choice3": "Isaac Newton",
+        "choice4": "Louis Pasteur",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its cherry blossoms?",
+        "choice1": "Japan",
+        "choice2": "South Korea",
+        "choice3": "China",
+        "choice4": "Vietnam",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for the Grand Canyon?",
+        "choice1": "Nevada",
+        "choice2": "New Mexico",
+        "choice3": "Arizona",
+        "choice4": "Utah",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known for its kangaroos and koalas?",
+        "choice1": "Australia",
+        "choice2": "New Zealand",
+        "choice3": "South Africa",
+        "choice4": "Canada",
+        "answer": 1
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Yangtze",
+        "choice4": "Mississippi",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "choice1": "Lisbon",
+        "choice2": "Porto",
+        "choice3": "Braga",
+        "choice4": "Coimbra",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice1": "Japan",
+        "choice2": "China",
+        "choice3": "South Korea",
+        "choice4": "Thailand",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for the Pyramids of Giza?",
+        "choice1": "Egypt",
+        "choice2": "Greece",
+        "choice3": "Mexico",
+        "choice4": "Peru",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. city is known for its Space Needle?",
+        "choice1": "San Francisco",
+        "choice2": "Seattle",
+        "choice3": "New York",
+        "choice4": "Chicago",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "choice1": "Sahara",
+        "choice2": "Arabian",
+        "choice3": "Gobi",
+        "choice4": "Antarctic",
+        "answer": 4
+    },
+    {
+        "question": "Which is the smallest continent by land area?",
+        "choice1": "Africa",
+        "choice2": "Europe",
+        "choice3": "Australia",
+        "choice4": "South America",
+        "answer": 3
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choice1": "Toronto",
+        "choice2": "Vancouver",
+        "choice3": "Ottawa",
+        "choice4": "Montreal",
+        "answer": 3
+    },
+    {
+        "question": "Which city is known as the city of canals?",
+        "choice1": "Venice",
+        "choice2": "Amsterdam",
+        "choice3": "Copenhagen",
+        "choice4": "Bangkok",
+        "answer": 1
+    },
+    {
+        "question": "Which country is the largest producer of coffee?",
+        "choice1": "Brazil",
+        "choice2": "Colombia",
+        "choice3": "Vietnam",
+        "choice4": "Ethiopia",
+        "answer": 1
+    },
+    {
+        "question": "Which famous ancient structure is located in Greece?",
+        "choice1": "Colosseum",
+        "choice2": "Parthenon",
+        "choice3": "Great Wall",
+        "choice4": "Machu Picchu",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "choice1": "Florence",
+        "choice2": "Venice",
+        "choice3": "Rome",
+        "choice4": "Milan",
+        "answer": 3
+    },
+    {
+        "question": "Which is the most populous city in the world?",
+        "choice1": "Shanghai",
+        "choice2": "Delhi",
+        "choice3": "Tokyo",
+        "choice4": "New York",
+        "answer": 3
+    },
+    {
+        "question": "Which river is the longest in Europe?",
+        "choice1": "Danube",
+        "choice2": "Rhine",
+        "choice3": "Volga",
+        "choice4": "Elbe",
+        "answer": 3
+    },
+    {
+        "question": "Which country is famous for the Taj Mahal?",
+        "choice1": "India",
+        "choice2": "Pakistan",
+        "choice3": "Nepal",
+        "choice4": "Bangladesh",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "choice1": "Iceland",
+        "choice2": "Norway",
+        "choice3": "Sweden",
+        "choice4": "Finland",
+        "answer": 1
+    },
+    {
+        "question": "Which famous mountain is located in Africa?",
+        "choice1": "Mount Kilimanjaro",
+        "choice2": "Mount Everest",
+        "choice3": "Mount McKinley",
+        "choice4": "Mont Blanc",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "choice1": "Greenland",
+        "choice2": "New Guinea",
+        "choice3": "Borneo",
+        "choice4": "Madagascar",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the City of Light?",
+        "choice1": "Paris",
+        "choice2": "New York",
+        "choice3": "Tokyo",
+        "choice4": "London",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for its tulips?",
+        "choice1": "Netherlands",
+        "choice2": "Belgium",
+        "choice3": "France",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Canberra",
+        "choice4": "Brisbane",
+        "answer": 3
+    },
+    {
+        "question": "Which city is famous for its Golden Gate Bridge?",
+        "choice1": "San Francisco",
+        "choice2": "Los Angeles",
+        "choice3": "Seattle",
+        "choice4": "New York",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for the Eiffel Tower?",
+        "choice1": "France",
+        "choice2": "Italy",
+        "choice3": "Spain",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Which is the highest mountain in the world?",
+        "choice1": "Mount Kilimanjaro",
+        "choice2": "Mount Everest",
+        "choice3": "K2",
+        "choice4": "Makalu",
+        "answer": 2
+    },
+    {
+        "question": "Which famous waterfall is located on the border between the USA and Canada?",
+        "choice1": "Niagara Falls",
+        "choice2": "Victoria Falls",
+        "choice3": "Iguazu Falls",
+        "choice4": "Angel Falls",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "choice1": "Guadalajara",
+        "choice2": "Monterrey",
+        "choice3": "Mexico City",
+        "choice4": "Cancun",
+        "answer": 3
+    },
+    {
+        "question": "Which country is famous for the Great Wall?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "India",
+        "choice4": "Vietnam",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Colosseum?",
+        "choice1": "Rome",
+        "choice2": "Athens",
+        "choice3": "Paris",
+        "choice4": "London",
+        "answer": 1
+    },
+    {
+        "question": "Which country is the largest in the world by land area?",
+        "choice1": "China",
+        "choice2": "Canada",
+        "choice3": "United States",
+        "choice4": "Russia",
+        "answer": 4
+    },
+    {
+        "question": "Which U.S. state is known as the Sunshine State?",
+        "choice1": "California",
+        "choice2": "Florida",
+        "choice3": "Hawaii",
+        "choice4": "Texas",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Norway?",
+        "choice1": "Oslo",
+        "choice2": "Stockholm",
+        "choice3": "Helsinki",
+        "choice4": "Copenhagen",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Alhambra Palace?",
+        "choice1": "Barcelona",
+        "choice2": "Madrid",
+        "choice3": "Granada",
+        "choice4": "Seville",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known for its fjords?",
+        "choice1": "Norway",
+        "choice2": "Sweden",
+        "choice3": "Denmark",
+        "choice4": "Finland",
+        "answer": 1
+    },
+    {
+        "question": "Which famous painting is housed in the Louvre Museum?",
+        "choice1": "The Starry Night",
+        "choice2": "Mona Lisa",
+        "choice3": "The Persistence of Memory",
+        "choice4": "The Scream",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Greece?",
+        "choice1": "Athens",
+        "choice2": "Thessaloniki",
+        "choice3": "Patras",
+        "choice4": "Heraklion",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for the Eiffel Tower?",
+        "choice1": "France",
+        "choice2": "Italy",
+        "choice3": "Spain",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "choice1": "Buenos Aires",
+        "choice2": "Santiago",
+        "choice3": "Montevideo",
+        "choice4": "Lima",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Brandenburg Gate?",
+        "choice1": "Berlin",
+        "choice2": "Munich",
+        "choice3": "Hamburg",
+        "choice4": "Cologne",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for the Eiffel Tower?",
+        "choice1": "France",
+        "choice2": "Italy",
+        "choice3": "Spain",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "choice1": "Atlantic",
+        "choice2": "Indian",
+        "choice3": "Arctic",
+        "choice4": "Pacific",
+        "answer": 4
+    },
+    {
+        "question": "Which city is known for its opera house called La Scala?",
+        "choice1": "Paris",
+        "choice2": "Milan",
+        "choice3": "Vienna",
+        "choice4": "Madrid",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known for its pyramids besides Egypt?",
+        "choice1": "Mexico",
+        "choice2": "Peru",
+        "choice3": "Greece",
+        "choice4": "China",
+        "answer": 1
+    },
+    {
+        "question": "Which city is famous for its historic Kremlin?",
+        "choice1": "Moscow",
+        "choice2": "St. Petersburg",
+        "choice3": "Kiev",
+        "choice4": "Riga",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its numerous islands, including Bali and Java?",
+        "choice1": "Indonesia",
+        "choice2": "Philippines",
+        "choice3": "Malaysia",
+        "choice4": "Thailand",
+        "answer": 1
+    },
+    {
+        "question": "Which is the capital city of India?",
+        "choice1": "Mumbai",
+        "choice2": "New Delhi",
+        "choice3": "Kolkata",
+        "choice4": "Chennai",
+        "answer": 2
+    },
+    {
+        "question": "Which U.S. state is known as the Aloha State?",
+        "choice1": "California",
+        "choice2": "Hawaii",
+        "choice3": "Alaska",
+        "choice4": "Florida",
+        "answer": 2
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "choice1": "Isaac Newton",
+        "choice2": "Galileo Galilei",
+        "choice3": "Albert Einstein",
+        "choice4": "Niels Bohr",
+        "answer": 3
+    },
+    {
+        "question": "Which country is known for its unique cuisine including sushi and tempura?",
+        "choice1": "Japan",
+        "choice2": "South Korea",
+        "choice3": "China",
+        "choice4": "Thailand",
+        "answer": 1
+    },
+    {
+        "question": "Which city is famous for its Red Square and St. Basil's Cathedral?",
+        "choice1": "Moscow",
+        "choice2": "St. Petersburg",
+        "choice3": "Kiev",
+        "choice4": "Warsaw",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for its unique shape and large amounts of oil production?",
+        "choice1": "Texas",
+        "choice2": "Alaska",
+        "choice3": "Oklahoma",
+        "choice4": "California",
+        "answer": 1
+    },
+    {
+        "question": "Which is the tallest building in the world?",
+        "choice1": "Burj Khalifa",
+        "choice2": "Shanghai Tower",
+        "choice3": "Abraj Al Bait",
+        "choice4": "Ping An Finance Centre",
+        "answer": 1
+    },
+    {
+        "question": "Which country is home to the historic site of Machu Picchu?",
+        "choice1": "Peru",
+        "choice2": "Bolivia",
+        "choice3": "Colombia",
+        "choice4": "Chile",
+        "answer": 1
+    },
+    {
+        "question": "Which famous artist painted the ceiling of the Sistine Chapel?",
+        "choice1": "Leonardo da Vinci",
+        "choice2": "Michelangelo",
+        "choice3": "Raphael",
+        "choice4": "Donatello",
+        "answer": 2
+    },
+    {
+        "question": "Which city is known for its iconic Golden Gate Bridge?",
+        "choice1": "San Francisco",
+        "choice2": "New York",
+        "choice3": "Los Angeles",
+        "choice4": "Seattle",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its stunning fjords and midnight sun?",
+        "choice1": "Norway",
+        "choice2": "Sweden",
+        "choice3": "Finland",
+        "choice4": "Denmark",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the birthplace of democracy?",
+        "choice1": "Athens",
+        "choice2": "Rome",
+        "choice3": "Cairo",
+        "choice4": "Istanbul",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its famous wine regions like Bordeaux and Burgundy?",
+        "choice1": "France",
+        "choice2": "Italy",
+        "choice3": "Spain",
+        "choice4": "Australia",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. city is known for its music scene, especially blues and jazz?",
+        "choice1": "New Orleans",
+        "choice2": "Chicago",
+        "choice3": "Nashville",
+        "choice4": "Austin",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its historic castles and medieval architecture?",
+        "choice1": "Germany",
+        "choice2": "France",
+        "choice3": "England",
+        "choice4": "Scotland",
+        "answer": 3
+    },
+    {
+        "question": "Which continent is known for having the Sahara Desert?",
+        "choice1": "Africa",
+        "choice2": "Asia",
+        "choice3": "Australia",
+        "choice4": "South America",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Trevi Fountain?",
+        "choice1": "Rome",
+        "choice2": "Florence",
+        "choice3": "Venice",
+        "choice4": "Milan",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for its windmills and wooden shoes?",
+        "choice1": "Netherlands",
+        "choice2": "Belgium",
+        "choice3": "Denmark",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Which city is famous for its Great Wall of China?",
+        "choice1": "Beijing",
+        "choice2": "Shanghai",
+        "choice3": "Xi'an",
+        "choice4": "Hong Kong",
+        "answer": 1
+    },
+    {
+        "question": "Which island country is known for its unique wildlife including lemurs?",
+        "choice1": "Madagascar",
+        "choice2": "New Zealand",
+        "choice3": "Australia",
+        "choice4": "Borneo",
+        "answer": 1
+    },
+    {
+        "question": "Which famous structure is located in Agra, India?",
+        "choice1": "Taj Mahal",
+        "choice2": "Red Fort",
+        "choice3": "Qutub Minar",
+        "choice4": "Gateway of India",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for its unique culture and history, including the Statue of Liberty?",
+        "choice1": "California",
+        "choice2": "New York",
+        "choice3": "Texas",
+        "choice4": "Florida",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known for the Great Barrier Reef?",
+        "choice1": "Australia",
+        "choice2": "New Zealand",
+        "choice3": "Philippines",
+        "choice4": "Indonesia",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Royal Palace and canals?",
+        "choice1": "Amsterdam",
+        "choice2": "Brussels",
+        "choice3": "Paris",
+        "choice4": "Vienna",
+        "answer": 1
+    },
+    {
+        "question": "Which famous structure is located in Paris, France?",
+        "choice1": "Eiffel Tower",
+        "choice2": "Big Ben",
+        "choice3": "Colosseum",
+        "choice4": "Christ the Redeemer",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its famous cuisine including pasta and pizza?",
+        "choice1": "Italy",
+        "choice2": "France",
+        "choice3": "Spain",
+        "choice4": "Greece",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for its historic Yellowstone National Park?",
+        "choice1": "California",
+        "choice2": "Wyoming",
+        "choice3": "Colorado",
+        "choice4": "Utah",
+        "answer": 2
+    },
+    {
+        "question": "Which famous scientist developed the theory of evolution?",
+        "choice1": "Charles Darwin",
+        "choice2": "Albert Einstein",
+        "choice3": "Isaac Newton",
+        "choice4": "Louis Pasteur",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Sydney Opera House?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Brisbane",
+        "choice4": "Perth",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its historic Machu Picchu?",
+        "choice1": "Peru",
+        "choice2": "Bolivia",
+        "choice3": "Chile",
+        "choice4": "Argentina",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its traditional tea ceremonies and cherry blossoms?",
+        "choice1": "Japan",
+        "choice2": "China",
+        "choice3": "South Korea",
+        "choice4": "Vietnam",
+        "answer": 1
+    },
+    {
+        "question": "Which famous landmark is located in Sydney, Australia?",
+        "choice1": "Sydney Opera House",
+        "choice2": "Great Barrier Reef",
+        "choice3": "Uluru",
+        "choice4": "Bondi Beach",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its vast deserts including the Gobi and Taklamakan?",
+        "choice1": "China",
+        "choice2": "India",
+        "choice3": "Saudi Arabia",
+        "choice4": "Australia",
+        "answer": 1
+    },
+    {
+        "question": "Which famous structure is located in the heart of London?",
+        "choice1": "Big Ben",
+        "choice2": "Eiffel Tower",
+        "choice3": "Colosseum",
+        "choice4": "Christ the Redeemer",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its beautiful canals and tulips?",
+        "choice1": "Netherlands",
+        "choice2": "Belgium",
+        "choice3": "France",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Empire State Building?",
+        "choice1": "New York",
+        "choice2": "Los Angeles",
+        "choice3": "Chicago",
+        "choice4": "San Francisco",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for its unique culture including jazz music and Creole cuisine?",
+        "choice1": "Louisiana",
+        "choice2": "Texas",
+        "choice3": "California",
+        "choice4": "Florida",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its historic pyramids and ancient civilization?",
+        "choice1": "Egypt",
+        "choice2": "Mexico",
+        "choice3": "China",
+        "choice4": "Greece",
+        "answer": 1
+    },
+    {
+        "question": "Which famous monument is located in Agra, India?",
+        "choice1": "Taj Mahal",
+        "choice2": "Qutub Minar",
+        "choice3": "Red Fort",
+        "choice4": "Gateway of India",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. state is known for its Hollywood film industry?",
+        "choice1": "California",
+        "choice2": "New York",
+        "choice3": "Texas",
+        "choice4": "Florida",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known for its historic Acropolis?",
+        "choice1": "Athens",
+        "choice2": "Rome",
+        "choice3": "Paris",
+        "choice4": "Istanbul",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its historic Machu Picchu?",
+        "choice1": "Peru",
+        "choice2": "Bolivia",
+        "choice3": "Chile",
+        "choice4": "Argentina",
+        "answer": 1
+    },
+    {
+        "question": "Which city is famous for its historic Berlin Wall?",
+        "choice1": "Berlin",
+        "choice2": "Munich",
+        "choice3": "Frankfurt",
+        "choice4": "Hamburg",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known for its beautiful fjords and northern lights?",
+        "choice1": "Norway",
+        "choice2": "Sweden",
+        "choice3": "Finland",
+        "choice4": "Denmark",
+        "answer": 1
+    },
+    {
+        "question": "Which U.S. city is known for its historic Golden Gate Bridge?",
+        "choice1": "San Francisco",
+        "choice2": "Los Angeles",
+        "choice3": "Seattle",
+        "choice4": "New York",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "choice1": "George Washington",
+        "choice2": "Thomas Jefferson",
+        "choice3": "Abraham Lincoln",
+        "choice4": "John Adams",
+        "answer": 1
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "choice1": "1910",
+        "choice2": "1912",
+        "choice3": "1914",
+        "choice4": "1916",
+        "answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "choice1": "Au",
+        "choice2": "Ag",
+        "choice3": "Pb",
+        "choice4": "Fe",
+        "answer": 1
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "choice1": "Mars",
+        "choice2": "Venus",
+        "choice3": "Jupiter",
+        "choice4": "Saturn",
+        "answer": 1
+    },
+    {
+        "question": "Which movie won the Academy Award for Best Picture in 1994?",
+        "choice1": "Forrest Gump",
+        "choice2": "Pulp Fiction",
+        "choice3": "The Shawshank Redemption",
+        "choice4": "The Lion King",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "choice1": "George Orwell",
+        "choice2": "Aldous Huxley",
+        "choice3": "Ray Bradbury",
+        "choice4": "J.D. Salinger",
+        "answer": 1
+    },
+
+    {
+        "question": "What is the smallest prime number?",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "5",
+        "answer": 2
+    },
+    {
+        "question": "Which element is represented by the symbol 'O'?",
+        "choice1": "Oxygen",
+        "choice2": "Osmium",
+        "choice3": "Oganesson",
+        "choice4": "Oganesson",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Canberra",
+        "choice3": "Melbourne",
+        "choice4": "Brisbane",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "South Korea",
+        "choice4": "Thailand",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Canberra",
+        "choice3": "Melbourne",
+        "choice4": "Brisbane",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "choice1": "Qin Shi Huang",
+        "choice2": "Kangxi",
+        "choice3": "Yongle",
+        "choice4": "Wudi",
+        "answer": 1,
+        "category": "History"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "choice1": "Nucleus",
+        "choice2": "Mitochondria",
+        "choice3": "Ribosome",
+        "choice4": "Endoplasmic Reticulum",
+        "answer": 2,
+        "category": "Science"
+    },
+    {
+        "question": "Who played Jack Dawson in the movie Titanic?",
+        "choice1": "Leonardo DiCaprio",
+        "choice2": "Brad Pitt",
+        "choice3": "Tom Cruise",
+        "choice4": "Johnny Depp",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice1": "Gold",
+        "choice2": "Diamond",
+        "choice3": "Platinum",
+        "choice4": "Iron",
+        "answer": 2,
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Canberra",
+        "choice3": "Melbourne",
+        "choice4": "Brisbane",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Yangtze",
+        "choice4": "Mississippi",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "choice1": "Qin Shi Huang",
+        "choice2": "Kangxi",
+        "choice3": "Yongle",
+        "choice4": "Wudi",
+        "answer": 1,
+        "category": "History"
+    },
+    {
+        "question": "During which war was the Battle of Stalingrad fought?",
+        "choice1": "World War I",
+        "choice2": "World War II",
+        "choice3": "The Cold War",
+        "choice4": "The Napoleonic Wars",
+        "answer": 2,
+        "category": "History"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "choice1": "Qin Shi Huang",
+        "choice2": "Kangxi",
+        "choice3": "Yongle",
+        "choice4": "Wudi",
+        "answer": 1,
+        "category": "History"
+    },
+    {
+        "question": "During which war was the Battle of Stalingrad fought?",
+        "choice1": "World War I",
+        "choice2": "World War II",
+        "choice3": "The Cold War",
+        "choice4": "The Napoleonic Wars",
+        "answer": 2,
+        "category": "History"
+    },
+    {
+        "question": "Who played Jack Dawson in the movie Titanic?",
+        "choice1": "Leonardo DiCaprio",
+        "choice2": "Brad Pitt",
+        "choice3": "Tom Cruise",
+        "choice4": "Johnny Depp",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "Which TV series features a character named Walter White?",
+        "choice1": "Breaking Bad",
+        "choice2": "Game of Thrones",
+        "choice3": "The Office",
+        "choice4": "Friends",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice1": "Gold",
+        "choice2": "Diamond",
+        "choice3": "Platinum",
+        "choice4": "Iron",
+        "answer": 2,
+        "category": "General Knowledge"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "7",
+        "choice4": "8",
+        "answer": 3,
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Canberra",
+        "choice3": "Melbourne",
+        "choice4": "Brisbane",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Yangtze",
+        "choice4": "Mississippi",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choice1": "Toronto",
+        "choice2": "Ottawa",
+        "choice3": "Vancouver",
+        "choice4": "Montreal",
+        "answer": 2,
+        "category": "Geography"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "choice1": "Qin Shi Huang",
+        "choice2": "Kangxi",
+        "choice3": "Yongle",
+        "choice4": "Wudi",
+        "answer": 1,
+        "category": "History"
+    },
+    {
+        "question": "During which war was the Battle of Stalingrad fought?",
+        "choice1": "World War I",
+        "choice2": "World War II",
+        "choice3": "The Cold War",
+        "choice4": "The Napoleonic Wars",
+        "answer": 2,
+        "category": "History"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "choice1": "George Washington",
+        "choice2": "Thomas Jefferson",
+        "choice3": "Abraham Lincoln",
+        "choice4": "John Adams",
+        "answer": 1,
+        "category": "History"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "choice1": "Nucleus",
+        "choice2": "Mitochondria",
+        "choice3": "Ribosome",
+        "choice4": "Endoplasmic Reticulum",
+        "answer": 2,
+        "category": "Science"
+    },
+    {
+        "question": "What gas do plants use for photosynthesis?",
+        "choice1": "Oxygen",
+        "choice2": "Carbon Dioxide",
+        "choice3": "Nitrogen",
+        "choice4": "Hydrogen",
+        "answer": 2,
+        "category": "Science"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "choice1": "Au",
+        "choice2": "Ag",
+        "choice3": "Pb",
+        "choice4": "Fe",
+        "answer": 1,
+        "category": "Science"
+    },
+    {
+        "question": "Who played Jack Dawson in the movie Titanic?",
+        "choice1": "Leonardo DiCaprio",
+        "choice2": "Brad Pitt",
+        "choice3": "Tom Cruise",
+        "choice4": "Johnny Depp",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "Which TV series features a character named Walter White?",
+        "choice1": "Breaking Bad",
+        "choice2": "Game of Thrones",
+        "choice3": "The Office",
+        "choice4": "Friends",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "Which movie won the Academy Award for Best Picture in 1994?",
+        "choice1": "Forrest Gump",
+        "choice2": "Pulp Fiction",
+        "choice3": "The Shawshank Redemption",
+        "choice4": "The Lion King",
+        "answer": 1,
+        "category": "Entertainment"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice1": "Gold",
+        "choice2": "Diamond",
+        "choice3": "Platinum",
+        "choice4": "Iron",
+        "answer": 2,
+        "category": "General Knowledge"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "7",
+        "choice4": "8",
+        "answer": 3,
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "5",
+        "answer": 2,
+        "category": "General Knowledge"
+    },
+        {
+            "question": "What is the capital of Australia?",
+            "choice1": "Sydney",
+            "choice2": "Canberra",
+            "choice3": "Melbourne",
+            "choice4": "Brisbane",
+            "answer": 2,
+            "category": "Geography"
+        },
+        {
+            "question": "Which river is the longest in the world?",
+            "choice1": "Amazon",
+            "choice2": "Nile",
+            "choice3": "Yangtze",
+            "choice4": "Mississippi",
+            "answer": 2,
+            "category": "Geography"
+        },
+        {
+            "question": "Who was the first Emperor of China?",
+            "choice1": "Qin Shi Huang",
+            "choice2": "Kangxi",
+            "choice3": "Yongle",
+            "choice4": "Wudi",
+            "answer": 1,
+            "category": "History"
+        },
+        {
+            "question": "During which war was the Battle of Stalingrad fought?",
+            "choice1": "World War I",
+            "choice2": "World War II",
+            "choice3": "The Cold War",
+            "choice4": "The Napoleonic Wars",
+            "answer": 2,
+            "category": "History"
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "choice1": "Nucleus",
+            "choice2": "Mitochondria",
+            "choice3": "Ribosome",
+            "choice4": "Endoplasmic Reticulum",
+            "answer": 2,
+            "category": "Science"
+        },
+        {
+            "question": "What gas do plants use for photosynthesis?",
+            "choice1": "Oxygen",
+            "choice2": "Carbon Dioxide",
+            "choice3": "Nitrogen",
+            "choice4": "Hydrogen",
+            "answer": 2,
+            "category": "Science"
+        },
+        {
+            "question": "Who played Jack Dawson in the movie Titanic?",
+            "choice1": "Leonardo DiCaprio",
+            "choice2": "Brad Pitt",
+            "choice3": "Tom Cruise",
+            "choice4": "Johnny Depp",
+            "answer": 1,
+            "category": "Entertainment"
+        },
+        {
+            "question": "Which TV series features a character named Walter White?",
+            "choice1": "Breaking Bad",
+            "choice2": "Game of Thrones",
+            "choice3": "The Office",
+            "choice4": "Friends",
+            "answer": 1,
+            "category": "Entertainment"
+        },
+        {
+            "question": "Which movie won the Academy Award for Best Picture in 1994?",
+            "choice1": "Forrest Gump",
+            "choice2": "Pulp Fiction",
+            "choice3": "The Shawshank Redemption",
+            "choice4": "The Lion King",
+            "answer": 1,
+            "category": "Entertainment"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "choice1": "Gold",
+            "choice2": "Diamond",
+            "choice3": "Platinum",
+            "choice4": "Iron",
+            "answer": 2,
+            "category": "General Knowledge"
+        },
+        {
+            "question": "How many continents are there on Earth?",
+            "choice1": "5",
+            "choice2": "6",
+            "choice3": "7",
+            "choice4": "8",
+            "answer": 3,
+            "category": "General Knowledge"
+        }
+]
